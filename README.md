@@ -1,4 +1,4 @@
-# AQI-Analysis-Prediction-
+# AQI-Analysis-Prediction
 This repository contains the Jupyter notebook to  analyse weather conditions and predict AQI 
 
 Developed a comprehensive Python project integrating data from multiple reputable sources to conduct thorough data preprocessing and analysis of weather and AQI data. 
